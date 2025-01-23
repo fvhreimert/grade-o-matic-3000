@@ -34,4 +34,11 @@ The Grade-O-Matic 3000 turns grading into a fun, exciting, and completely random
 3. Watch as the wheel spins dramatically before landing on a random grade.  
 4. Deliver the grades with confidence and a straight face.  
 
+## 📸 **Screenshots**
+![Grade Wheel Screenshot](assets/screenshot.png)
+
 ---
+
+## Link to start game:
+https://fvhreimert.github.io/Balloonageddon-2-Revenge-of-the-Latex-Legion/
+
