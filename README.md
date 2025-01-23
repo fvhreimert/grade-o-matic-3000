@@ -1,6 +1,6 @@
-# 🎡 **Grade-O-Matic 3000: Spin Your Way to Academic Justice!** 🎡  
+# 🎡 Grade-O-Matic 3000: Spin Your Way to Effortless Grading! 🎡
 
-> *Are you tired of endless grading? Exhausted by subjective evaluations? Let the wheel decide!*  
+> **Tired of grading endless assignments? Let the wheel do the work for you!**  
 
 ---
 
@@ -29,10 +29,9 @@ The Grade-O-Matic 3000 turns grading into a fun, exciting, and completely random
 ---
 
 ## 🚀 **How to Use**
-1. Upload your students' names and assignments into the system.  
-2. Spin the Grade-O-Matic 3000 wheel with a simple click.  
-3. Watch as the wheel spins dramatically before landing on a random grade.  
-4. Deliver the grades with confidence and a straight face.  
+1. Spin the Grade-O-Matic 3000 wheel with a simple click.  
+2. Watch as the wheel spins dramatically before landing on a random grade.  
+3. Deliver the grades with confidence and a straight face.  
 
 ## 📸 **Screenshots**
 ![Grade Wheel Screenshot](assets/screenshot.png)
@@ -40,5 +39,5 @@ The Grade-O-Matic 3000 turns grading into a fun, exciting, and completely random
 ---
 
 ## Link to start game:
-https://fvhreimert.github.io/Balloonageddon-2-Revenge-of-the-Latex-Legion/
+https://fvhreimert.github.io/grade-o-matic-3000/
 
